@@ -1,0 +1,24 @@
+{
+    "DatabaseName":"SoraBillingSystem",
+    "Collections":[
+        "TbCityStates",
+        "TbClientAddress",
+        "TbClientEmails",
+        "TbClientPhones",
+        "TbClients",
+        "TbCountries",
+        "TbCountryCities",
+        "TbGenders",
+        "TbMaritalStatus",
+        "TbMenuModule",
+        "TbMenues",
+        "TbProductTypes",
+        "TbStockMovementTypes",
+        "TbUniquePermissions",
+        "TbUnitCategories",
+        "TbUnits",
+        "TbUserMenues",
+        "TbUserUniquePermissions",
+        "TbUsers"
+    ]
+}
